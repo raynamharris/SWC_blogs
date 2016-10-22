@@ -4,13 +4,13 @@ I have co-taught three instructor training workshops this year (one online and o
 
 ## Summary
 Too long to read? Here's a summary in tabular form. 
-| Feature | In Person | Online 
+| Feature | In Person | Online |
 | :--- | :---: | :---: |  
-networking | excellent |poor  
-etherpad use | poor | excellent
-time commitment | prep + class time + <br> travel + paperwork | prep + class time 
-private co-instructor communication | in person | Slack & email
-potential for technical difficulties | low | high
+networking | excellent | poor | 
+etherpad use | poor | excellent |
+time commitment | prep + class time + <br> travel + paperwork | prep + class time | 
+private co-instructor communication | in person | Slack & email |
+potential for technical difficulties | low | high |
 
 ## Networking 
 I think the most amazing feature of an in person workshop is the networking. There is something about face to face conversation during activiites and over coffee, beer, and  dinner that really solidifies personal relations. I became a certified instructor in January 2015 at UC Davis TTT taught by Greg Wilson, Tracy Teal, Bill Mills, and Aleksandra Pawlik. I consider all four of these people to be close colleagues now. Also, I'm going to be visiting a handful of the workshop learned in November when I visit California. Also, I talk to a lot of SWC/DC instructors on-line, but there is something about meeting them in person that feels like its the first time we've met. 
