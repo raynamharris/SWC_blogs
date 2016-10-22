@@ -4,7 +4,7 @@ I have co-taught three instructor training workshops this year (one online and o
 
 ## Summary
 Too long to read? Here's a summary in tabular form. 
-| Feature | In Person | Online |
+| Feature | In Person | Online 
 | :--- | :---: | :---: |  
 networking | excellent |poor  
 etherpad use | poor | excellent
