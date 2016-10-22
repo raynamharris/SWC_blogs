@@ -6,7 +6,7 @@ I have co-taught three instructor training workshops this year (one online and o
 | :--- | :---: | :---: |  
 networking | poor | excellent 
 etherpad use | excellent | poor
-time commitment | prep + class time | prep + class time + travel + paperwork
+time commitment | prep + class time | prep + class time + <br> travel + paperwork
 
 ## Why online is awesome
 In January 2015, I was a learning in the In-person instructor training at UC Davis taught by Greg Wilson, Tracy Teal, Bill Mills, and Aleksandra Pawlik.
