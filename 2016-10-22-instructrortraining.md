@@ -1,4 +1,11 @@
-# A Comparison of Online and In-person Instructor Training Workshops
+---
+layout: post
+authors: ["Rayna Harris"]
+title: "A Comparison of Online and In-person Instructor Training Workshops"
+date: 2016-10-22
+time: "16:00:00"
+category: ["Instructor Training"]
+---
 
 I have co-taught three instructor training workshops this year (one online and one in-person with Christina Koch and one online with Greg Wilson. 
 
