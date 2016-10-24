@@ -19,7 +19,7 @@ Etherpad use | poor | excellent |
 time commitment | prep + class time + <br> travel + paperwork | prep + class time | 
 private communication | in-person | Slack & email |
 technical difficulties | medium | high |
-what is on screen | my face + a white board | the web, slides 
+displayed on screen | the web? slides? | the instructor's face + a white board? |
 
 ## Networking 
 **In-person:** I think the most amazing feature of an in-person workshop is the networking. There is something about face to face conversation during activities and over coffee, beer, and  dinner that really solidifies personal relations. I became a certified instructor in January 2015 at UC Davis instructor training workshop taught by Greg Wilson, Tracy Teal, Bill Mills, and Aleksandra Pawlik; I consider all four of these people to be close colleagues now, and I'm going to be visiting a handful of other workshop participants in November when I visit California. Also, I regularily talk to SWC/DC instructors on-line, but there is something about meeting them in-person that feels like its the first time we've met face-to-face. 
