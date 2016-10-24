@@ -38,13 +38,13 @@ The great thing about the Etherpad (in my opinion) is that is allows everyone to
 
 **What does this mean for next time?** I think next time I teach in-person, I will use the Etherpad chat a lot more, especially for quick yes/no responses.
 
-## What is displayed on the big screen
+## What is displayed on the big screen?
 
-**In-person:** During the one in-person class I taught, I really struggled with knowing what to display on the projector. I had to use it, right? I ended up bounching back and forth between various webpages (the Etherpad, the lesson page, fun images, video), but the whole time I felt like this was ineffective. It made me with that I either had slides to use or to simply not use it at all.
+**In-person:** During the in-person class I taught, I struggled with what to display on the projector. I had to use it, right? I bounced back and forth between various webpages (the Etherpad, the lesson page, fun images, videos), but the whole time I felt like this was ineffective. It made me wish that I either had slides to use or could avoid using it all together.
 
-**Online** During  online workshops, the big screen projector is used for the webcast so that learners can see the instructor and learners at other sites. I setup a whiteboard right beind my chair for drawing concept maps, and we give the students video links so they can watch the good and bad live coding videos. Each student has their laptop open to the etherpad and some other webpages. Since the student never see anything projected except for my face and my white board, maybe this means that I can do the in-person classes without using the projector....
+**Online** During  online workshops, the big screen projector is used for the webcast so that learners can see the instructor and the learners at other sites. I setup a whiteboard right beind my chair for drawing concept maps, so that I could use illustrations. Each student has their laptop open to the etherpad, and they can easily open links to webpages or videos that we give them. Since the student never see anything projected except for my face and my white board, maybe this means that I can do the in-person classes without using the projector....
 
-**What does this mean for next time?** Next time I teach in person, I'm going to try not using the projector at all on Day 1 to highly encourage Etherpad note taking and communication. Then, I'll use the projector on Day 2 only for live coding. 
+**What does this mean for next time?** Next time I teach in person, I'm going to try not using the projector at all on Day 1 to highly encourage Etherpad note taking and communication, and I'll only use it on Day 2 only for live coding. For online workshops, I'll highly recommend using a white board *if* you can write clear enough that it can be read. 
 
 ## Time Commitment
 **In-person:** Even though I really enjoy traveling, saying yes to teaching a workshop in a different city is a huge time commitment. Instead of just saying yes to teaching from 9-4, I'm saying yes to being in a different city for 24 hours a day. I also have to devote a lot of additional time to planning the travel, traveling, and getting reimbursed for expenses.  
