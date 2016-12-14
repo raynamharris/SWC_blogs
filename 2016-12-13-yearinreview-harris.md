@@ -7,7 +7,10 @@ time: "16:20:00"
 category: ["Steering Committee", "Software Carpentry Foundation", "Election 2016"]
 ---
 
-## I previous wrote that I would focus on these topics in 2017:
+# A year in review 
+I want to thank you for giving me the prilege to serve on the Software Carpentry Steering Committee. Here is a very brief recap of the year. Click this link to read my 2017 election post. 
+
+## A year ago, I said I would focus my efforts on:
 
 1. integrating data from the mentoring and debriefing sessions with the assessment surveys to understand the degree of workshop effectiveness 
 
@@ -17,9 +20,9 @@ category: ["Steering Committee", "Software Carpentry Foundation", "Election 2016
 
 4. streamlining the above processes so that new trainees can easily be incorporated into these leadership roles
 
-## Here is my brief recap of what the community has accomplished accomplished:
+## Here is my recap of what we as a community have accomplished
 
-1. When subcommittees and subcommunities have an overlapping representation, it facilitates the transfer of ideas, concepts, and data across groups. This is why I like to be hear in multiple groups so that I can better understand challenges and opportunities. I'm excited to see some new or revamped programs for 2017, including the mentoring program, the communication revamp, monthly meeting, discussion sessions, newsletter, featured Data Carpentry Blogs. 
+1. When subcommittees and subcommunities have an overlapping representation, it facilitates the transfer of ideas, concepts, and data across groups. I like to be in multiple groups so that I can better understand and identify shared challenges and opportunities. I'm excited to see some new and revamped programs for 2017 that are the results of share idea with members of the community. I'm really happy with the mentoring program, the communication revamp, monthly meeting, discussion sessions, newsletter, featured Data Carpentry Blogs. 
 
 2. Lesson maintenance has undergone some changes for the better this year. [Click here to read the October 2016 summary from Kate Hertweck](https://software-carpentry.org/blog/2016/10/maintainers-meeting.html).
 
